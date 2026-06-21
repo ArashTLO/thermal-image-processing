@@ -1,2 +1,2 @@
 # thermal-image-processing
-thermal image processing for industry motors
+Thermal image processing for industry motors
